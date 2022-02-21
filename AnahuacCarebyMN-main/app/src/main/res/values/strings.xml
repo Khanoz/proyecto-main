@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Anahuac Care by M&amp;N</string>
+
+    <string name="txt_nuevo">¿Nuevo?</string>
+    <string name="noAcount">¿No tienes cuenta @anahuac.mx?</string>
+    <string name="email_user">Usuario</string>
+    <string name="password_user">Contraseña</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidoP">Apellido Paterno</string>
+    <string name="apellidoM">Apellido Materno</string>
+    <string name="email">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="contraseñaConfirmacion">Confirmar Contraseña</string>
+    <string name="contraseñaOlvidada">Contraseña Nueva</string>
+    <string name="contraseñaOlvidadaConfirmacion">Confirmar Contraseña Nueva</string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Campus">Campus</string>
+    <string name="proveedor">Soy proveedor</string>
+    <string name="continuar">Continuar</string>
+    <string name="Bienvenida">Estimado(a) Gilberto: Como parte de los procesos para un sano retorno, te pedimos que respondas este cuestionario cada día que debas acudir presencialmente a la Universidad. Después de contestar, se generará un carnet que podrás presentar en la entrada de la Universidad.</string>
+    <string name="Noe">Gilberto Noe De la luz Seseña</string>
+    <string name="negritas">Resultado de cuestionario de vulnerabilidad:</string>
+    <string name="no_vulnerable">No soy vulnerable.</string>
+
+
+    <string name="Button1">Ingresa con mi cuenta Anáhuac</string>
+    <string name="Button2">Entra aqui</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_registrarAqui">Registrate aquí</string>
+    <string name="btn_resetPassword">Recupera tu contraseña</string>
+    <string name="btn_responderCuestionario">Responder Cuestionario Diario</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_aceptar">Acepto</string>
+    <string name="btn_Noaceptar">No acepto</string>
+
+
+    // cuestionarios cadenas
+
+    <string name="pregunta0">Al enviar la presente encuesta, manifiesto y reconozco bajo protesta de decir la verdad, que la información es proporcionada de forma voluntaria, además de que ésta es verídica , por lo que en caso de existir falsedad en la información, tengo pleno conocimiento de que podría afectar mi salud y la de la comunidad universitaria.</string>
+    <string name="preguta0_1">En acaso de que mi estado de salud se vea modificado posterior al envío de la presente encuesta, me comprometo a informar dicha situación a los correos proporcionados por cada campus.</string>
+    <string name="cancun">Cancun</string>
+
+    <string name="pregunta1">1. En los últimos 7 días  he estado con alguna persona que tenga COVID-19 confirmado por un aprueba PCR, prueba rápida o por diagnostico de un doctor.</string>
+    <string name="pregunta2">2. En las últimas 24 hrs. He presentado los siguientes síntomas:</string>
+    <string name="pregunta3">3. En las ultimas 24 hrs. he presentado los siguiente síntomas</string>
+    <string name="pregunta4">4. En las ultimas 24 hrs. he presentado los siguiente síntomas: </string>
+    <string name="pregunta5">5. Me he recuperado recientemente de COVID-19, aunque en las ultimas 72 horas he presentado alguno de estos síntomas: Temperatura mayor a 37.5°, dolor muscular o de articulaciones, dolor de cabeza, tos, dolor de garganta, escurrimiento nasal, ojos rojos, comezón, ardor, dolor o secreción en ojos, cansancio excesivo, dejado de percibir el olor de las cosas, diarrea, dolor de tórax, dificultad para respirar, labios, uñas o dedos con coloración morada.</string>
+
+    // opciones
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="Ninguno">Ninguno</string>
+    <string name="sintoma1">Temperatura mayor a 37.5 grados</string>
+    <string name="sintoma2">Dolor muscular o de articulaciones</string>
+    <string name="sintoma3">Dolor de cabeza</string>
+    <string name="sintoma4">Tos</string>
+    <string name="sintoma5">Dolor de garganta</string>
+    <string name="sintoma6">Escurrimiento nasal</string>
+    <string name="sintoma7">Ojos rojos</string>
+    <string name="sintoma8">Comezón</string>
+    <string name="sintoma9">Ardor</string>
+    <string name="sintoma10">Dolor o secrecion en los ojos</string>
+    <string name="sintoma11">Cansancio excesivo</string>
+    <string name="sintoma12">Dejado de percibir el sabor de la comida</string>
+    <string name="sintoma13">Dejado de percibir el olor de las cosas</string>
+    <string name="sintoma14">Diarrea</string>
+    <string name="sintoma15">Dolor de torax</string>
+    <string name="sintoma16">Dificultad para respirar</string>
+    <string name="sintoma17">Labios, uñas o dedos con coloración morada</string>
+    <string name="title_activity_pregunta5">Pregunta5</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
